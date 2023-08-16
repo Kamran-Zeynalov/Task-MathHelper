@@ -1,0 +1,15 @@
+C:\Users\kzeyn\source\repos\Task_MathHelper\Task_MathHelper\bin\Debug\net6.0\Task_MathHelper.exe
+C:\Users\kzeyn\source\repos\Task_MathHelper\Task_MathHelper\bin\Debug\net6.0\Task_MathHelper.deps.json
+C:\Users\kzeyn\source\repos\Task_MathHelper\Task_MathHelper\bin\Debug\net6.0\Task_MathHelper.runtimeconfig.json
+C:\Users\kzeyn\source\repos\Task_MathHelper\Task_MathHelper\bin\Debug\net6.0\Task_MathHelper.dll
+C:\Users\kzeyn\source\repos\Task_MathHelper\Task_MathHelper\bin\Debug\net6.0\Task_MathHelper.pdb
+C:\Users\kzeyn\source\repos\Task_MathHelper\Task_MathHelper\obj\Debug\net6.0\Task_MathHelper.csproj.AssemblyReference.cache
+C:\Users\kzeyn\source\repos\Task_MathHelper\Task_MathHelper\obj\Debug\net6.0\Task_MathHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kzeyn\source\repos\Task_MathHelper\Task_MathHelper\obj\Debug\net6.0\Task_MathHelper.AssemblyInfoInputs.cache
+C:\Users\kzeyn\source\repos\Task_MathHelper\Task_MathHelper\obj\Debug\net6.0\Task_MathHelper.AssemblyInfo.cs
+C:\Users\kzeyn\source\repos\Task_MathHelper\Task_MathHelper\obj\Debug\net6.0\Task_MathHelper.csproj.CoreCompileInputs.cache
+C:\Users\kzeyn\source\repos\Task_MathHelper\Task_MathHelper\obj\Debug\net6.0\Task_MathHelper.dll
+C:\Users\kzeyn\source\repos\Task_MathHelper\Task_MathHelper\obj\Debug\net6.0\refint\Task_MathHelper.dll
+C:\Users\kzeyn\source\repos\Task_MathHelper\Task_MathHelper\obj\Debug\net6.0\Task_MathHelper.pdb
+C:\Users\kzeyn\source\repos\Task_MathHelper\Task_MathHelper\obj\Debug\net6.0\Task_MathHelper.genruntimeconfig.cache
+C:\Users\kzeyn\source\repos\Task_MathHelper\Task_MathHelper\obj\Debug\net6.0\ref\Task_MathHelper.dll
